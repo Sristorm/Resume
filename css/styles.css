@@ -1,0 +1,87 @@
+#title{
+  background-color: #fe9d0c;
+}
+
+h1{
+  font-family: 'Montserrat, sans-serif';
+  font-size: 3rem;
+  line-height: 1;
+  font-weight: 900;
+}
+
+.intro{
+  font-family:'Comforter Brush, cursive';
+  font-size: 3rem;
+  line-height: 1.3;
+  font-weight: 400;
+}
+
+.navbar{
+  font-size: 20px;
+}
+
+h3{
+  font-family: Comic Sans;
+}
+
+.fa-robot:hover{
+  color: #fca716 !important;
+}
+
+.fa-user-lock:hover{
+  color: #fca716 !important;
+}
+
+.fa-gamepad:hover{
+  color: #fca716 !important;
+}
+
+.fa-check-circle:hover{
+  color: #fca716 !important;
+}
+
+#testimonials{
+  text-align: center;
+  padding: 6%;
+  font-size: 25px;
+  font-family: font-family: 'Montserrat, sans-serif';
+  background-color: #fca716;
+}
+
+#press{
+  background-color: #fca716;
+  padding: 4%;
+  text-align: center;
+}
+
+#test_img{
+  border:1px solid;
+  border-radius:50%;
+  width:125px;
+  height:125px;
+  border-radius: 50%;
+  margin: 20px 20px 10px;
+}
+
+.press_img{
+  width:10%;
+  margin: 15px 15px 15px 10px;
+}
+
+#pricing{
+  padding: 4%;
+  text-align: center;
+}
+
+#well: hover{
+  color: red !important;
+  background-color: #b3b3b3
+}
+.card{
+  padding:2px !important;
+  margin: 2px;
+}
+
+h2{
+  font-family: palatino linotype;
+}
